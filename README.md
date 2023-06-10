@@ -1,4 +1,4 @@
-# MTC Asset file Converter 1.2.0
+# MTC Asset Converter 1.2.0
 ___
 Dependencies: Python and Pillow
 
